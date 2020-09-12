@@ -1,1 +1,68 @@
-<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg enable-background="new 0 0 48 48" height="48px" version="1.1" viewBox="0 0 48 48" width="48px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Expanded"><g><g><path d="M35,48H11c-0.528,0-0.965-0.41-0.998-0.938l-2-32c-0.017-0.275,0.08-0.546,0.269-0.747S8.724,14,9,14h28     c0.276,0,0.54,0.114,0.729,0.315s0.286,0.472,0.269,0.747l-2,32C35.965,47.59,35.528,48,35,48z M11.939,46h22.121l1.875-30     H10.064L11.939,46z"/></g><g><path d="M39,16H7c-0.552,0-1-0.447-1-1V7c0-0.553,0.448-1,1-1h32c0.552,0,1,0.447,1,1v8C40,15.553,39.552,16,39,16z M8,14h30V8H8     V14z"/></g><g><path d="M37.02,8C37.014,7.999,37.007,8,37,8H9C8.679,8,8.377,7.846,8.189,7.585S7.95,6.988,8.051,6.684l2-6     C10.188,0.275,10.569,0,11,0h24c0.431,0,0.812,0.275,0.949,0.684l1.94,5.821C37.972,6.651,38.02,6.82,38.02,7     C38.02,7.553,37.572,8,37.02,8z M10.387,6h25.226l-1.333-4H11.721L10.387,6z"/></g><g><path d="M36.5,24h-27c-0.552,0-1-0.447-1-1s0.448-1,1-1h27c0.552,0,1,0.447,1,1S37.052,24,36.5,24z"/></g><g><rect height="2" width="25.5" x="10.25" y="34"/></g><g><path d="M26,30h-6c-0.552,0-1-0.447-1-1s0.448-1,1-1h6c0.552,0,1,0.447,1,1S26.552,30,26,30z"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="cup.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="135 90 120 120"
+   height="50px"
+   width="48px">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="1103"
+     inkscape:window-x="268"
+     inkscape:window-height="855"
+     inkscape:window-width="1440"
+     inkscape:snap-intersection-paths="false"
+     showborder="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="392.75875"
+     inkscape:cx="770.5767"
+     inkscape:zoom="0.73180112"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       transform="scale(0.26458333)"
+       d="M 742.25 349.20508 C 693.17877 349.22435 648.83232 354.54511 613.75195 364.40234 C 596.21181 369.33096 580.97672 375.10754 567.23047 384.23633 C 554.24295 392.86117 539.16914 407.69177 537.52539 430.09375 A 37.799055 37.799055 0 0 0 537.22656 433.74219 C 537.22615 433.83176 537.20312 433.91005 537.20312 434 A 37.799055 37.799055 0 0 0 537.20312 434.04297 C 537.2032 434.11138 537.21094 434.17926 537.21094 434.24805 A 37.799055 37.799055 0 0 0 537.20312 435 L 537.20312 713 C 537.20311 713.05367 537.20299 713.10844 537.20312 713.16211 L 537.20312 714 A 37.799055 37.799055 0 0 0 538.29492 723.01367 C 542.15794 743.43472 556.45105 755.93745 568.93555 763.87109 C 582.64544 772.58343 597.85999 778.23665 615.31445 783.03125 C 650.22345 792.6204 694.11299 797.79481 742.49805 797.79492 C 791.61766 797.79492 836.02223 792.47937 871.14844 782.62305 C 888.71156 777.69488 903.96695 771.91859 917.72852 762.78906 C 930.94023 754.02434 946.33866 738.86585 947.56055 715.83008 A 37.799055 37.799055 0 0 0 947.68359 714.32617 C 947.69493 713.86998 947.79297 713.46227 947.79297 713 A 37.799055 37.799055 0 0 0 947.79297 712.95703 C 947.79259 712.6388 947.76342 712.32218 947.75586 712.00391 C 947.75582 712.00289 947.7559 712.00076 947.75586 712 L 947.75586 435 A 37.799055 37.799055 0 0 0 947.75586 434.99609 C 947.76342 434.67786 947.79297 434.36139 947.79297 434.04297 A 37.799055 37.799055 0 0 0 947.79297 434 C 947.79297 433.52688 947.69374 433.10935 947.68164 432.64258 A 37.799055 37.799055 0 0 0 947.56445 431.21484 C 946.36071 408.15326 930.94896 392.98144 917.72852 384.21094 C 903.96695 375.08153 888.71156 369.30511 871.14844 364.37695 C 836.02223 354.52064 791.61766 349.20508 742.49805 349.20508 L 742.26367 349.20508 A 37.799055 37.799055 0 0 0 742.25 349.20508 z M 602.66406 408.12695 A 142.50339 44.950259 0 0 0 601.36328 414.18555 A 142.50339 44.950259 0 0 0 743.86719 459.13672 A 142.50339 44.950259 0 0 0 886.36914 414.18555 A 142.50339 44.950259 0 0 0 885.61914 409.58203 A 167.49999 46.999995 0 0 1 910 434 A 167.49999 46.999995 0 0 1 742.5 481 A 167.49999 46.999995 0 0 1 575 434 A 167.49999 46.999995 0 0 1 602.66406 408.12695 z M 575 495.125 L 575.03906 495.125 C 576.97774 520.68677 651.38157 541.12482 742.5 541.125 C 833.61843 541.12482 908.02226 520.68677 909.96094 495.125 L 909.96289 495.125 L 909.96289 712 L 909.96094 712 C 909.98664 712.33329 909.99962 712.66664 910 713 C 910.00001 738.95738 835.0077 760 742.5 760 C 651.38157 759.99983 576.97774 739.56177 575.03906 714 L 575 714 L 575 713.06641 C 574.99994 713.04431 574.99994 713.0221 575 713 L 575 666.17383 L 575.03906 666.17383 C 576.13354 680.60468 600.33121 693.40117 637.58594 701.81055 L 637.58594 671.74609 C 600.3312 663.33672 576.13354 650.5402 575.03906 636.10938 L 575 636.10938 L 575 606.04688 L 575.03906 606.04688 C 576.13354 620.4777 600.33121 633.27422 637.58594 641.68359 L 637.58594 611.62109 C 600.3312 603.21172 576.13354 590.4152 575.03906 575.98438 L 575 575.98438 L 575 545.92188 L 575.03906 545.92188 C 576.13354 560.3527 600.33121 573.14922 637.58594 581.55859 L 637.58594 551.49609 C 600.3312 543.08672 576.13354 530.2902 575.03906 515.85938 L 575 515.85938 L 575 495.125 z "
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:75.5906;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+       id="path852" />
+    <path
+       sodipodi:nodetypes="cccccscccccccc"
+       transform="scale(0.26458333)"
+       d="M 575,495.12563 575,713 c -6e-5,0.0221 -6e-5,0.0443 0,0.0664 V 714 h 0.0391 c 1.93868,25.56177 76.34251,45.99983 167.46094,46 92.5077,0 167.50001,-21.04262 167.5,-47 -3.8e-4,-0.33336 -0.0134,-0.66671 -0.0391,-1 h 0.002 l 0,-216.87437 h -0.002 c -1.93868,25.56177 -76.34251,45.99982 -167.46094,46 -91.11843,-1.8e-4 -165.52226,-20.43823 -167.46094,-46 z"
+       style="opacity:0.504823;fill:none;stroke:none;stroke-width:6.99999"
+       id="ellipse837" />
+  </g>
+</svg>
